@@ -1,5 +1,6 @@
 ### Brief explanation
 
+##Move Reactivecommon to your arduio library folder
 
 #### led_master.ino is for the controller with the microphone module. Needs to specify:
 * Button pin to change mode
